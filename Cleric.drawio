@@ -1,18 +1,9 @@
-<mxfile host="www.draw.io" modified="2019-12-16T00:06:59.219Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yUkZwZ223U3YnGLWTpsA" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T00:07:25.124Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="U_tplT_-Hkm3VkSHuKKJ" version="12.4.2" type="github" pages="1">
   <diagram id="MSWrlgIqDMj4kQCJrIGD" name="Страница 1">
     <mxGraphModel dx="774" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="CMS7KJYcF8cZqzwdZGvZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="250" y="190" width="160" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="CMS7KJYcF8cZqzwdZGvZ-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="380" y="100" width="140" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="s-RrVYUpUwOuehbTl1q9-1" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="80" height="80" as="geometry"/>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
